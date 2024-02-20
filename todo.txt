@@ -2,4 +2,5 @@
 Yoonaje's manuscript
 Sk Hynix manuscript
 Revision work 
-GIT & Githu
+GIT & Github
+Practice code
