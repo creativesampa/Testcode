@@ -1,6 +1,7 @@
 
-Yoonaje's manuscript
-Sk Hynix manuscript
-Revision work 
-GIT & Github
-Practice code
+1. Yoonaje's manuscript
+2. Sk Hynix manuscript
+3. Revision work 
+4. GIT & Github
+5. Practice code
+6. Main and branch completed
