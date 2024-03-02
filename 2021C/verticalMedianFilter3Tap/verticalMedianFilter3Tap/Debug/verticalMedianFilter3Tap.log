@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  verticalMedianFilter3Tap.cpp
+c:\ravim\southkorea2018\sse\2018\verticalmedianfilter3tap\verticalmedianfilter3tap\verticalmedianfilter3tap.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\ravim\southkorea2018\sse\2018\verticalmedianfilter3tap\verticalmedianfilter3tap\verticalmedianfilter3tap.cpp(74): error C3861: 'sseMedian3': identifier not found
+c:\ravim\southkorea2018\sse\2018\verticalmedianfilter3tap\verticalmedianfilter3tap\verticalmedianfilter3tap.cpp(77): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\ravim\southkorea2018\sse\2018\verticalmedianfilter3tap\verticalmedianfilter3tap\verticalmedianfilter3tap.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\ravim\southkorea2018\sse\2018\verticalmedianfilter3tap\verticalmedianfilter3tap\verticalmedianfilter3tap.cpp(82): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Timer.cpp
+c:\ravim\southkorea2018\sse\2018\verticalmedianfilter3tap\verticalmedianfilter3tap\timer.cpp(175): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
