@@ -1,0 +1,16 @@
+﻿  Timer.cpp
+  transposeC.cpp
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(12,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(75,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(88,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(30,7): warning C4101: 'temp3': unreferenced local variable
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(24,9): warning C4101: 'j': unreferenced local variable
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(24,6): warning C4101: 'i': unreferenced local variable
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(117,24): warning C4101: 'outData': unreferenced local variable
+C:\Users\ravia\Home\Postech\2021\2021C\transposeC\transposeC.cpp(133,24): warning C4101: 'outData': unreferenced local variable
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  transposeC.vcxproj -> C:\Users\ravia\Home\Postech\2021\2021C\transposeC\x64\Release\transposeC.exe
